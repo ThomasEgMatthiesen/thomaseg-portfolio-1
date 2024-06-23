@@ -1,0 +1,155 @@
+[
+    {
+        "title": "Hørbar",
+        "resume": "Hørbar er et lydbureau og et kunstnerisk fællesskab, der udarbejder lyddesign og -kunst. Vi arbejder blandt andet på projekterne 'Genhør' og 'Altering Spaces'.",
+        "text": "",
+        "videoUrl": "",
+        "genre": "Lyddesign og -kunst",
+        "type": "Udstillinger og events",
+        "year": "2023 -"
+    },
+    {
+        "title": "New Nordic Lexicon",
+        "resume": "Post-produktion af podcast- og videoserien 'New Nordic Lexicon' udgivet af Aarhus Universitet.",
+        "text": "",
+        "videoUrl": "/media/video/new_nordic_lexicon.mp4",
+        "genre": "Podcast",
+        "type": "Mix og master",
+        "year": "2023 -"
+    },
+    {
+        "title": "BoligPortal",
+        "resume": "Komposition af brandmusik og lydlogo.",
+        "text": "",
+        "videoUrl": "/media/video/boligportal.mp4",
+        "genre": "Lydbranding",
+        "type": "Brandmusik og lydlogo",
+        "year": "2023"
+    },
+    {
+        "title": "Ildhu CPH",
+        "resume": "Komposition af brandmusik og lydlogo.",
+        "text": "",
+        "videoUrl": "/media/video/ildhu_cph.mp4",
+        "genre": "Lydbranding",
+        "type": "Brandmusik",
+        "year": "2022"
+    },
+    {
+        "title": "Blåtlagt",
+        "resume": "Komposition af musik til podcast (udgået) og lydlogo til Venstres medieafdeling.",
+        "text": "",
+        "videoUrl": "/media/video/venstre.mp4",
+        "genre": "Podcast og lydbranding",
+        "type": "Lydlogo og musik",
+        "year": "2022"
+    },
+    {
+        "title": "Dynakustisk",
+        "resume": "Designprototype der udforsker og præsenterer en dynamisk tilgang til akustisk behandling, ved at gøre brug af adaptive, additive og automatiske metoder.",
+        "text": "Hvorvidt et rums akustik findes god eller dårlig er relativ til den aktivitet, der udspiller sig i det pågældende rum. Akustik er udtalt statisk, mens menneskelig aktivitet er dynamisk. 'Dynakustisk' er en materialisering af idéen om at kunne skabe varierende akustik, der dynamisk tilpasser sig aktiviterne i et rum.",
+        "videoUrl": "/media/video/dynakustisk.mp4",
+        "genre": "Akustisk design",
+        "type": "Prototype",
+        "year": "2022"
+    },
+    {
+        "title": "Mind Diver",
+        "resume": "Et romantisk detektivspil, hvori man indtager rollen som minde-efterforsker. Ved at dykke ned i klientens sind opklares mysteriet om hendes kærestes forsvinden.",
+        "text": "Lydsiden er udarbejdet af en række lyddesignere samt en komponist. Under projektet arbejdede jeg hovedsageligt med spillets soundscape, reallyde og implementeringen af lyde via FMOD og Unity. Spillet er i år blevet nomineret til 'Best Student Game' ved 'Independent Games Festival'.",
+        "videoUrl": "/media/video/mind_diver.mp4",
+        "genre": "Game audio",
+        "type": "Lyddesign",
+        "year": "2022"
+    },
+    {
+        "title": "Windfall",
+        "resume": "Procedural-generated exploration indiespil, med fokus på hurtig og flydende bevægelse. Som spiller rejser man gennem en iturevet verden, for at forhindre dens totale destruktion.",
+        "text": "Spillet er udviklet under et DADIU-forløb på Den Danske Filmskole. Her stod jeg for lyddesign (soundscape, lydeffekter, osv.), men også audio-programmering og implementering af musik og lyd i Wwise og Unity.",
+        "videoUrl": "/media/video/windfall.mp4",
+        "genre": "Game audio",
+        "type": "Lyddesign",
+        "year": "2021"
+    },
+    {
+        "title": "Stoiske sfære",
+        "resume": "Et hovedtema i den stoiske filosofi er kontrol. Værket her præsentere dette tema, ved at lade deltagere lytte til og manipulere et musikalsk lydbillede, via en minimalistisk brugerflade.",
+        "text": "En stoiker vil sige, at menneskets kontrolsfære består af bedømmelser og handlinger. I værket udpensles dette ved at minimere deltagerens handlingsmuligheder, således at kontrolsfæren fremstår tydeligere. Lydbilledet lader sig ikke fuldt ud kontrollere, men blot variere baseret på deltagerens handlinger og dennes efterfølgende bedømmelse af resultatet.",
+        "videoUrl": "/media/video/stoiske_sfære.mp4",
+        "genre": "Interaktiv lydkunst",
+        "type": "Prototype",
+        "year": "2021"
+    },
+    {
+        "title": "Poilus",
+        "resume": "Remake af reallyd og musik til filmen 'Poilus'.",
+        "text": "",
+        "videoUrl": "/media/video/poilus_remake.mp4",
+        "genre": "Animationskortfilm",
+        "type": "Remake",
+        "year": "2020"
+    },
+    {
+        "title": "11.012(±22)m 108,6 MPa",
+        "resume": "Hvordan opfører lyd sig hvis man lader den synke til bunds i Marianergraven?",
+        "text": "Dette digitale værk fremfører en abstrakt fortolkning af denne rejse ned i dybet. En lydfil loades til værket, hvorefter en frekvensanalyse skaber tonalt grundlag for en generativ synthesizer. Herefter udsættes lydfilen i tiltagende grad for bl.a. kompression (tryk), rumklang (lys) og EQ (temperatur) på vej til havbunden.",
+        "videoUrl": "/media/video/11012.mp4",
+        "genre": "Digitalt lydværk",
+        "type": "Audio Programming",
+        "year": "2021"
+    },
+    {
+        "title": "Sonificering af ISS",
+        "resume": "Aflyt afstanden mellem dig og Den Internationale Rumstation. ",
+        "text": "At sonificere vil sige at kommunikere information med lyd (uden brug af tale). Dette Max/MSP patch benytter positionen af ISS i realtid, til at udregne afstanden mellem brugeren og rumstationen. Denne afstand har derefter indflydelse på lydsyntese, -modulation og effekter.",
+        "videoUrl": "/media/video/sonificering_iss.mp4",
+        "genre": "Sonificering",
+        "type": "Audio Programming",
+        "year": "2021"
+    },
+    {
+        "title": "Aleatorisk blues",
+        "resume": "Max/MSP patch der ved brug af tilfældighed, fremfører kontinuerligt, omskifteligt og varieret bluesklaver (som et MIDI-signal).",
+        "text": "",
+        "videoUrl": "/media/video/aleatorisk_blues.mp4",
+        "genre": "Generativ music",
+        "type": "Audio Programming",
+        "year": "2021"
+    },
+    {
+        "title": "Motion tracking music",
+        "resume": "Max/MSP patch der gør brug af kamerainput til at aktivere musik",
+        "text": "",
+        "videoUrl": "/media/video/motion_tracking.mp4",
+        "genre": "Interactive Software",
+        "type": "Audio Programming",
+        "year": "2020"
+    },
+    {
+        "title": "Alma",
+        "resume": "Remake af reallyd og musik til et uddrag af filmen 'Alma'.",
+        "text": "",
+        "videoUrl": "/media/video/alma_remake.mp4",
+        "genre": "Animationskortfilm",
+        "type": "Remake",
+        "year": "2020"
+    },
+    {
+        "title": "One button synthesizer",
+        "resume": "Udforskning af en minimalistisk brugerflade til lydsyntese og -manipulation.",
+        "text": "",
+        "videoUrl": "/media/video/one_button.mp4",
+        "genre": "Digital Instrument",
+        "type": "Audio Programming",
+        "year": "2020"
+    },
+    {
+        "title": "Gestik- og stemmestyret DAW",
+        "resume": "Mix af lyd og musik ved hjælp af gestikulation og stemmekommandoer.",
+        "text": "En DAW (Digital Audio Workstation) er ofte begrænset af computerens brugerflade og dens skærm. Dette kan føre til at man i arbejdet med lyd træffer beslutninger med sine øjne, i stedet for med sine øre. Denne designprototype udforsker muligheden for at brugeren kan mixe lyd og musik, med computerskærmen slukket.",
+        "videoUrl": "/media/video/gestik_og_stemmestyret_daw.mp4",
+        "genre": "Interaktionsdesign",
+        "type": "Software Prototype",
+        "year": "2019"
+    }
+]
